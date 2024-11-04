@@ -1,0 +1,35 @@
+.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.4s ease, transform 0.4s ease;
+  }
+  
+  .food_section .filters-content .grid .col-sm-6.col-lg-4.all {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  .filters_menu li {
+    cursor: pointer;
+    display: inline-block;
+    padding: 8px 16px;
+    margin: 0 5px;
+    font-weight: bold;
+    color: #333;
+    transition: color 0.3s ease;
+  }
+  
+  .filters_menu .active {
+    color: #1dc89b;
+  }
+  
+  .filters_menu li:hover {
+    color: #1dc89b;
+  }
+  
+  /* Add classes when filtered items appear to apply fade-in effect */
+  .food_section .filters-content .grid .col-sm-6.col-lg-4.all.fade-in {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
