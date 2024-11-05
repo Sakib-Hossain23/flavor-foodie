@@ -17,4 +17,4 @@ This is a responsive food restaurant website built using React, JavaScript, HTML
 - **SCSS**
 
 # Live Demo:
-Go to link [flavorfoodie](https://fresh-fare.netlify.app/)
+Go to link [fresh-fare](https://fresh-fare.netlify.app/)
