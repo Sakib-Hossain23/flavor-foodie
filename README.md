@@ -1,8 +1,20 @@
-# React + Vite
+# Food Restaurant Website
+This is a responsive food restaurant website built using React, JavaScript, HTML, CSS, and SCSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features:
 
-Currently, two official plugins are available:
+- **Single Page Application (SPA)**: Enjoy a seamless navigation experience without full page reloads.
+- **Menu Display**: View all food items with descriptions, images, and prices.
+- **Responsive Design**: Adjusts smoothly for mobile, tablet, and desktop screens.
+- **Interactive UI**: React components for a dynamic and user-friendly experience.
+- **Custom Styles:**: SCSS for modular and efficient styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Technologies Used:
+- **React**
+- **JavaScript**
+- **HTML**
+- **CSS**
+- **SCSS**
+
+# Live Demo
+Go to link [flavorfoodie](https://flavorfoodie.netlify.app/)
