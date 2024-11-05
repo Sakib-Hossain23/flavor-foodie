@@ -16,5 +16,5 @@ This is a responsive food restaurant website built using React, JavaScript, HTML
 - **CSS**
 - **SCSS**
 
-# Live Demo
+# Live Demo:
 Go to link [flavorfoodie](https://flavorfoodie.netlify.app/)
